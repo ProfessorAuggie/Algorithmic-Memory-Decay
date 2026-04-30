@@ -1,0 +1,32 @@
+{
+  "simulations": {
+    "simulation_1": {
+      "figures": [
+        "/mnt/agents/output/algorithmic-memory-decay/screenshots/simulation_1_accuracy_3d.png",
+        "/mnt/agents/output/algorithmic-memory-decay/screenshots/simulation_1_accuracy_2d.png"
+      ],
+      "description": "accuracy_under_decay"
+    },
+    "simulation_2": {
+      "figures": [
+        "/mnt/agents/output/algorithmic-memory-decay/screenshots/simulation_2_privacy_engagement.png",
+        "/mnt/agents/output/algorithmic-memory-decay/screenshots/simulation_2_contours.png"
+      ],
+      "description": "privacy_engagement_tradeoff"
+    },
+    "simulation_3": {
+      "figures": [
+        "/mnt/agents/output/algorithmic-memory-decay/screenshots/simulation_3_comparative.png",
+        "/mnt/agents/output/algorithmic-memory-decay/screenshots/simulation_3_table.png"
+      ],
+      "description": "comparative_analysis"
+    },
+    "simulation_4": {
+      "figures": [
+        "/mnt/agents/output/algorithmic-memory-decay/screenshots/simulation_4_dynamics.png"
+      ],
+      "description": "entropy_and_dynamics"
+    }
+  },
+  "output_directory": "/mnt/agents/output/algorithmic-memory-decay/screenshots"
+}
