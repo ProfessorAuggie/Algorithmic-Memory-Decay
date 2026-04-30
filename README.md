@@ -2,7 +2,7 @@
 
 > **Paper**: "Predicting When Personalization Becomes Manipulation: A Behavioral Threshold Model for Social Media Algorithms"
 >
-> **Authors**: Vaibhav Kushwaha, Dr. Ruchika Gupta, Agam Sharma
+> **Authors**: Vaibhav Kushwaha, Dr. Ruchika Gupta, Agam Sharma, Ujjwal Kumar
 >
 > **Institution**: Department of Computer Science & Engineering, Chandigarh University, Mohali, India
 
